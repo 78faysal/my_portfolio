@@ -1,0 +1,37 @@
+.body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.navImg {
+    width: 150px;
+}
+.home_img{
+    width: 500px;
+}
+.menu_option{
+    border-bottom: tomato;
+}
+
+.navItemContainer{
+    margin-left: 50%;
+}
+
+.aboutSectionTitle{
+    border-bottom: 3px solid tomato;
+    width: 135px;
+}
+.working-div-container:hover{
+    box-shadow: 2px 5px 5px 5px #888888;
+    transition: 0.7s;
+    margin-top: 5px;
+}
+
+.footer_container{
+    padding: 50px;
+    background-color: #212529;
+    color: white;
+}
+.footer_container div{
+    width: 200px;
+}
